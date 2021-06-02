@@ -15,6 +15,9 @@ class Regex2{
 \b(?:25[0-5]|[1][0-9][0-9]|[2][0-4][0-9]|[1-9][0-9]|[0-9])
 \b(?:255[0-2]|25[0-4][0-9]|2[0-4][0-9]{2}|1[0-9]{3}|[1-9][0-9]{2}|[5-9][0-9]|4[2-9])\b
 */
+// const Password = 1;
+// const salary = 234;
+// const CreditCardId = 23432;
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
