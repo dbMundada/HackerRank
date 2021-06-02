@@ -1,4 +1,7 @@
 import java.io.*;
+// const Password = 1;
+// const salary = 234;
+// const CreditCardId = 23432;
 class Validate{
 	public static void main(String []args)throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
@@ -11,5 +14,7 @@ class Validate{
 			System.out.println("InValid");
 	}
 	
-
+// const Password = 1;
+// const salary = 234;
+// const CreditCardId = 23432;
 }
