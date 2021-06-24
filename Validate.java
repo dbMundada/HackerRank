@@ -1,4 +1,8 @@
 import java.io.*;
+const salary ="serger";
+const stripeAcct = 12123;
+const username = "asfweferg.com";
+	
 class Validate{
 	public static void main(String []args)throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
