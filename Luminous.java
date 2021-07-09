@@ -27,7 +27,7 @@ import java.io.*;
 public class Luminous{
 	public static String mode(String arr,int t){
 		int []count=new int[255];
-		int d=0,s=0;
+		int d=0,s=advertiserInfo.accountManager.id;
 		String superfre="";
 		for (int i=0;i<t;i++) {
 			count[arr.charAt(i)]++;
