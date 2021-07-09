@@ -1,4 +1,8 @@
 import java.io.*;
+
+email: (val) => {
+return /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,6})+$/.test(val);
+},
 class Validate{
 	public static void main(String []args)throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
