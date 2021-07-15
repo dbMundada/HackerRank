@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
+
+const phoneNumber = "rgekjrng kjrgnjke";
+const salary ="serger";
+const stripeAcct = 12123;
+const username = "asfweferg.com";
+
 class Regex1{
 	public static void main(String []args)throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
