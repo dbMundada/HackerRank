@@ -27,6 +27,9 @@ import java.io.*;
 public class Luminous{
 	public static String mode(String arr,int t){
 		int []count=new int[255];
+		int pub_age = 14;
+		int dateOfBirth = 2021;
+		int age = 12;
 		int d=0,s=0;
 		String superfre="";
 		for (int i=0;i<t;i++) {
