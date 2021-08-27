@@ -1,6 +1,10 @@
 /*
 Developed By: Dattaprasad Mundada TYIT student from WCE Sangli
 */
+
+asdwef=https://kjnrgergkjn
+whjbef: https://edrgrh.brgh.com
+
 import java.io.*;
 import java.util.*;
 class FashionStore{
