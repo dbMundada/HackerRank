@@ -4,7 +4,7 @@ Developed By: Dattaprasad Mundada TYIT student from WCE Sangli
 
 privadoUrl=https://privado.ai
 jiraUrl: https://privado.jira.com
-rfgetg
+fdyghchtg = jygughjb.jhgvj
 
 import java.io.*;
 import java.util.*;
