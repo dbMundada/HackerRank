@@ -2,8 +2,8 @@
 Developed By: Dattaprasad Mundada TYIT student from WCE Sangli
 */
 
-asdwef=https://kjnrgergkjn
-whjbef: https://edrgrh.brgh.com
+privadoUrl=https://privado.ai
+jiraUrl: https://privado.jira.com
 rfgetg
 
 import java.io.*;
