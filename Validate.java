@@ -6,6 +6,16 @@ import {WaiterConfiguration} from '../lib/service';
 import {ServiceConfigurationOptions} from '../lib/service';
 import {ConfigBase as Config} from '../lib/config-base';
 interface Blob {}
+
+
+   experience: “4 years”
+},
+{
+   employeeId: “2003,
+   designation: “Developer”,
+   experience: “3 years”
+}
+
 declare class EKS extends Service {
   /**
    * Constructs a service object. This object has one method for each API operation.
