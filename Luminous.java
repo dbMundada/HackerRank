@@ -14,6 +14,15 @@ First line starts with T, number of test cases. Each test case T contains a neck
 Output Format:
 Print "Yes" if Damjibhai can win, else print "No".
 
+
+    /**
+     * The current status of the relationship between the account and the administrator account.
+     */
+    relationshipStatus?: RelationshipStatus;
+    /**
+     * A map of key-value pairs that identifies the tags (keys and values) that are associated with the member account in Amazon Macie.
+     */
+
 Constraints:
 1<=T<=100
 1<=|N|<=500, N will only contain lower case alphabets ('a'-'z').
